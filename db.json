@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thaynara Cristina",
+      "email": "cristina.thaay25@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "vitor grisolia",
+      "email": "grisolia.vitor@gmail.com"
+    }
+  ]
+}
